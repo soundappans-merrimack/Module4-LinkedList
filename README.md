@@ -16,7 +16,7 @@ To compile the Java program, use the following command:
 ```sh
 javac SortedLinkedList.java
 ### Sample Input & Output
-Positive Test Cases
+Test Cases
 Test Case 1: Basic Sorting
 **Input:**
 Enter integers (type 'done' to finish):
